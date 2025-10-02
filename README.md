@@ -40,3 +40,19 @@ gcc main.c -o supertrunfo.exe
 
 # Executar
 supertrunfo.exe
+```
+🚀 Próximos passos
+
+Refatorar para usar structs (cartas de forma mais organizada).
+
+Criar funções para reduzir repetição de código.
+
+Implementar laços de repetição para cadastrar mais cartas.
+
+Melhorar a comparação e permitir múltiplos confrontos.
+
+📜 Licença
+
+Este projeto está sob a licença MIT
+.
+Você pode usar, modificar e distribuir livremente, desde que mantenha os créditos.
